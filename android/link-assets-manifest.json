@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/Cairo-Bold.ttf",
+      "sha1": "5a7b0543c6c62843900f5d5a049ebc32b5434f5d"
+    },
+    {
+      "path": "src/Assets/Fonts/Cairo-Regular.ttf",
+      "sha1": "c40cd69d854d12c818b30c86668a45305b531c5d"
+    },
+    {
+      "path": "src/Assets/Fonts/Cairo-SemiBold.ttf",
+      "sha1": "62ebd95c7f440e03311188c9eed02aae313045c5"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Black.ttf",
+      "sha1": "9b1295a32faac069e31b4fabfef2d44463d5f226"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Bold.ttf",
+      "sha1": "a9398ac0f1d61475ea7bed19789f044f0c9d6fc0"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-ExtraBold.ttf",
+      "sha1": "3dea704a4951fc8970163b3006d6012867467368"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-ExtraLight.ttf",
+      "sha1": "041ef8ef467030ce228ea99246357ecc7068bc9f"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Light.ttf",
+      "sha1": "b2ff05f9688df557cf6c8742f747d5a7dcc3a3e4"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Medium.ttf",
+      "sha1": "9321c4ea6869ae1a598759a34ed27770c88c01a0"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Regular.ttf",
+      "sha1": "456e74b0805d1931a7786d3d04673a3b02dd4dd3"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-SemiBold.ttf",
+      "sha1": "324846ad0f841908ef3a6b7caf3ac8d6e4e84c7b"
+    },
+    {
+      "path": "src/Assets/Fonts/NotoSansArabic-Thin.ttf",
+      "sha1": "88050e31eb6a1346500298b54b8f5eb26e7e0a06"
+    },
+    {
+      "path": "src/Assets/Fonts/WorkSans-Bold.ttf",
+      "sha1": "29ee9214b2baa985b6ca8f1474a5d3c799a4fe81"
+    },
+    {
+      "path": "src/Assets/Fonts/WorkSans-Regular.ttf",
+      "sha1": "943c38fa3c44e48acc89c9547e30dc57991cb150"
+    },
+    {
+      "path": "src/Assets/Fonts/WorkSans-SemiBold.ttf",
+      "sha1": "d118e3c6fd7618bd7b36072336e5710871c99cc0"
+    }
+  ]
+}
