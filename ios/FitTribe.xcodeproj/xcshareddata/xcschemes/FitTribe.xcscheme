@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Soum.app"
-               BlueprintName = "Soum"
-               ReferencedContainer = "container:Soum.xcodeproj">
+               BuildableName = "FitTribe.app"
+               BlueprintName = "FitTribe"
+               ReferencedContainer = "container:FitTribe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SoumTests.xctest"
-               BlueprintName = "SoumTests"
-               ReferencedContainer = "container:Soum.xcodeproj">
+               BuildableName = "FitTribeTests.xctest"
+               BlueprintName = "FitTribeTests"
+               ReferencedContainer = "container:FitTribe.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Soum.app"
-            BlueprintName = "Soum"
-            ReferencedContainer = "container:Soum.xcodeproj">
+            BuildableName = "FitTribe.app"
+            BlueprintName = "FitTribe"
+            ReferencedContainer = "container:FitTribe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Soum.app"
-            BlueprintName = "Soum"
-            ReferencedContainer = "container:Soum.xcodeproj">
+            BuildableName = "FitTribe.app"
+            BlueprintName = "FitTribe"
+            ReferencedContainer = "container:FitTribe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

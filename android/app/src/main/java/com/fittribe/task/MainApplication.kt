@@ -1,4 +1,4 @@
-package com.soum.assesment
+package com.fittribe.task
 
 import android.app.Application
 import com.facebook.react.PackageList

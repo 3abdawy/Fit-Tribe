@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* SoumTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SoumTests.m */; };
+		00E356F31AD99517003FC87E /* FitTribeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* FitTribeTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -15,14 +15,14 @@
 		2E4C3D38A44043218170FE67 /* NotoSansArabic-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AEDA7FBD462947309068BB71 /* NotoSansArabic-ExtraBold.ttf */; };
 		3DC6DEFF34E94A3AAF0E7B77 /* Cairo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FCDAB48BD8CF4F5C90BEF96A /* Cairo-Regular.ttf */; };
 		5359F10FD97E4C95B6E55AF9 /* WorkSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05F3F87AD5DA4333B0F5234F /* WorkSans-Bold.ttf */; };
-		6066631C50B32A6DA7F72F14 /* libPods-Soum-SoumTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 679F188F33446F8138B26B50 /* libPods-Soum-SoumTests.a */; };
+		6066631C50B32A6DA7F72F14 /* libPods-FitTribe-FitTribeTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 679F188F33446F8138B26B50 /* libPods-FitTribe-FitTribeTests.a */; };
 		622A9904DC714C4495D58FCA /* NotoSansArabic-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 675478155E1647B98A5CB3D2 /* NotoSansArabic-Bold.ttf */; };
 		7DDB2EBDEEF34D39BE0482B9 /* NotoSansArabic-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B4B89331A9A436FBB3B13B8 /* NotoSansArabic-Black.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		843218C7B5234C21886A150F /* NotoSansArabic-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 331B3EF8E23D4F1EB003EE75 /* NotoSansArabic-Light.ttf */; };
 		9C743E1D33F74FA28935F5E0 /* NotoSansArabic-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB1C6F7F77DA4E15B4B2B27B /* NotoSansArabic-Thin.ttf */; };
 		A287B04607F94527BEA63159 /* NotoSansArabic-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86F5B37F602447EFB5494D34 /* NotoSansArabic-Medium.ttf */; };
-		AFE3BE85246E3D8DB8BE8C35 /* libPods-Soum.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD5F6027E03AA4EFEBF67D5 /* libPods-Soum.a */; };
+		AFE3BE85246E3D8DB8BE8C35 /* libPods-FitTribe.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD5F6027E03AA4EFEBF67D5 /* libPods-FitTribe.a */; };
 		C327B5BF62B74DB9B10CCDF8 /* WorkSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4658861833347EC9F4F2D21 /* WorkSans-Regular.ttf */; };
 		D2D123E7C67540E1A53E6E7D /* NotoSansArabic-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F470120F98574338B08FA925 /* NotoSansArabic-SemiBold.ttf */; };
 		D516CA42CABE409D9F313553 /* Cairo-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E1D2EE5656C429DA18D02D2 /* Cairo-SemiBold.ttf */; };
@@ -37,39 +37,39 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = Soum;
+			remoteInfo = "FitTribe";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00E356EE1AD99517003FC87E /* SoumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* FitTribeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FitTribeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* SoumTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SoumTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* FitTribeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "FitTribeTests.m"; sourceTree = "<group>"; };
 		05F3F87AD5DA4333B0F5234F /* WorkSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "WorkSans-Bold.ttf"; path = "../src/Assets/Fonts/WorkSans-Bold.ttf"; sourceTree = "<group>"; };
-		0A900AD7AE4EE78C4F20B297 /* Pods-Soum.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Soum.debug.xcconfig"; path = "Target Support Files/Pods-Soum/Pods-Soum.debug.xcconfig"; sourceTree = "<group>"; };
+		0A900AD7AE4EE78C4F20B297 /* Pods-FitTribe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FitTribe.debug.xcconfig"; path = "Target Support Files/Pods-FitTribe/Pods-FitTribe.debug.xcconfig"; sourceTree = "<group>"; };
 		0B4B89331A9A436FBB3B13B8 /* NotoSansArabic-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Black.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Black.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* Soum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Soum.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Soum/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Soum/AppDelegate.mm; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Soum/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Soum/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Soum/main.m; sourceTree = "<group>"; };
-		2CC03261B6CAC098BD846EA4 /* Pods-Soum-SoumTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Soum-SoumTests.debug.xcconfig"; path = "Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2DD5F6027E03AA4EFEBF67D5 /* libPods-Soum.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Soum.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* FitTribe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FitTribe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "FitTribe/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = "FitTribe/AppDelegate.mm"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "FitTribe/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "FitTribe/Info.plist"; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "FitTribe/main.m"; sourceTree = "<group>"; };
+		2CC03261B6CAC098BD846EA4 /* Pods-FitTribe-FitTribeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FitTribe-FitTribeTests.debug.xcconfig"; path = "Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2DD5F6027E03AA4EFEBF67D5 /* libPods-FitTribe.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FitTribe.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FCC3276833644DB89BD135B /* NotoSansArabic-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Regular.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Regular.ttf"; sourceTree = "<group>"; };
 		331B3EF8E23D4F1EB003EE75 /* NotoSansArabic-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Light.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Light.ttf"; sourceTree = "<group>"; };
 		5E1D2EE5656C429DA18D02D2 /* Cairo-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cairo-SemiBold.ttf"; path = "../src/Assets/Fonts/Cairo-SemiBold.ttf"; sourceTree = "<group>"; };
 		675478155E1647B98A5CB3D2 /* NotoSansArabic-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Bold.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Bold.ttf"; sourceTree = "<group>"; };
-		679F188F33446F8138B26B50 /* libPods-Soum-SoumTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Soum-SoumTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		679F188F33446F8138B26B50 /* libPods-FitTribe-FitTribeTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FitTribe-FitTribeTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FEF2E5E05E94F318A655A06 /* Cairo-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Cairo-Bold.ttf"; path = "../src/Assets/Fonts/Cairo-Bold.ttf"; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Soum/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "FitTribe/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		86F5B37F602447EFB5494D34 /* NotoSansArabic-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Medium.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Medium.ttf"; sourceTree = "<group>"; };
-		A1C9E4038C07D0A10BE25D24 /* Pods-Soum-SoumTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Soum-SoumTests.release.xcconfig"; path = "Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests.release.xcconfig"; sourceTree = "<group>"; };
+		A1C9E4038C07D0A10BE25D24 /* Pods-FitTribe-FitTribeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FitTribe-FitTribeTests.release.xcconfig"; path = "Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests.release.xcconfig"; sourceTree = "<group>"; };
 		AEDA7FBD462947309068BB71 /* NotoSansArabic-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-ExtraBold.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-ExtraBold.ttf"; sourceTree = "<group>"; };
 		B881E089BE6741089BB6C6DB /* WorkSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "WorkSans-SemiBold.ttf"; path = "../src/Assets/Fonts/WorkSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		C4658861833347EC9F4F2D21 /* WorkSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "WorkSans-Regular.ttf"; path = "../src/Assets/Fonts/WorkSans-Regular.ttf"; sourceTree = "<group>"; };
 		DB1C6F7F77DA4E15B4B2B27B /* NotoSansArabic-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-Thin.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-Thin.ttf"; sourceTree = "<group>"; };
-		E751476450AC2F009D9A3400 /* Pods-Soum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Soum.release.xcconfig"; path = "Target Support Files/Pods-Soum/Pods-Soum.release.xcconfig"; sourceTree = "<group>"; };
+		E751476450AC2F009D9A3400 /* Pods-FitTribe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FitTribe.release.xcconfig"; path = "Target Support Files/Pods-FitTribe/Pods-FitTribe.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F470120F98574338B08FA925 /* NotoSansArabic-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-SemiBold.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-SemiBold.ttf"; sourceTree = "<group>"; };
 		FB47882D349446C2B593AC96 /* NotoSansArabic-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "NotoSansArabic-ExtraLight.ttf"; path = "../src/Assets/Fonts/NotoSansArabic-ExtraLight.ttf"; sourceTree = "<group>"; };
@@ -81,7 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6066631C50B32A6DA7F72F14 /* libPods-Soum-SoumTests.a in Frameworks */,
+				6066631C50B32A6DA7F72F14 /* libPods-FitTribe-FitTribeTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,20 +89,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AFE3BE85246E3D8DB8BE8C35 /* libPods-Soum.a in Frameworks */,
+				AFE3BE85246E3D8DB8BE8C35 /* libPods-FitTribe.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* SoumTests */ = {
+		00E356EF1AD99517003FC87E /* FitTribeTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* SoumTests.m */,
+				00E356F21AD99517003FC87E /* FitTribeTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = SoumTests;
+			path = "FitTribeTests";
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -113,7 +113,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* Soum */ = {
+		13B07FAE1A68108700A75B9A /* FitTribe */ = {
 			isa = PBXGroup;
 			children = (
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -123,15 +123,15 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = Soum;
+			name = "FitTribe";
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				2DD5F6027E03AA4EFEBF67D5 /* libPods-Soum.a */,
-				679F188F33446F8138B26B50 /* libPods-Soum-SoumTests.a */,
+				2DD5F6027E03AA4EFEBF67D5 /* libPods-FitTribe.a */,
+				679F188F33446F8138B26B50 /* libPods-FitTribe-FitTribeTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -168,9 +168,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* Soum */,
+				13B07FAE1A68108700A75B9A /* FitTribe */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* SoumTests */,
+				00E356EF1AD99517003FC87E /* FitTribeTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
@@ -184,8 +184,8 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Soum.app */,
-				00E356EE1AD99517003FC87E /* SoumTests.xctest */,
+				13B07F961A680F5B00A75B9A /* FitTribe.app */,
+				00E356EE1AD99517003FC87E /* FitTribeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -193,10 +193,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0A900AD7AE4EE78C4F20B297 /* Pods-Soum.debug.xcconfig */,
-				E751476450AC2F009D9A3400 /* Pods-Soum.release.xcconfig */,
-				2CC03261B6CAC098BD846EA4 /* Pods-Soum-SoumTests.debug.xcconfig */,
-				A1C9E4038C07D0A10BE25D24 /* Pods-Soum-SoumTests.release.xcconfig */,
+				0A900AD7AE4EE78C4F20B297 /* Pods-FitTribe.debug.xcconfig */,
+				E751476450AC2F009D9A3400 /* Pods-FitTribe.release.xcconfig */,
+				2CC03261B6CAC098BD846EA4 /* Pods-FitTribe-FitTribeTests.debug.xcconfig */,
+				A1C9E4038C07D0A10BE25D24 /* Pods-FitTribe-FitTribeTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -204,9 +204,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* SoumTests */ = {
+		00E356ED1AD99517003FC87E /* FitTribeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SoumTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "FitTribeTests" */;
 			buildPhases = (
 				D7B26B9AEF90012D997DC94F /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -220,14 +220,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = SoumTests;
-			productName = SoumTests;
-			productReference = 00E356EE1AD99517003FC87E /* SoumTests.xctest */;
+			name = "FitTribeTests";
+			productname = "FitTribeTests";
+			productReference = 00E356EE1AD99517003FC87E /* FitTribeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* Soum */ = {
+		13B07F861A680F5B00A75B9A /* FitTribe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Soum" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FitTribe" */;
 			buildPhases = (
 				7976341651B003ED81D6B996 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
@@ -241,9 +241,9 @@
 			);
 			dependencies = (
 			);
-			name = Soum;
-			productName = Soum;
-			productReference = 13B07F961A680F5B00A75B9A /* Soum.app */;
+			name = "FitTribe";
+			productName = "FitTribe";
+			productReference = 13B07F961A680F5B00A75B9A /* FitTribe.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -263,7 +263,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Soum" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FitTribe" */;
 			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -276,8 +276,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* Soum */,
-				00E356ED1AD99517003FC87E /* SoumTests */,
+				13B07F861A680F5B00A75B9A /* FitTribe */,
+				00E356ED1AD99517003FC87E /* FitTribeTests */,
 			);
 		};
 /* End PBXProject section */
@@ -339,15 +339,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7976341651B003ED81D6B996 /* [CP] Check Pods Manifest.lock */ = {
@@ -365,7 +365,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Soum-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FitTribe-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -378,15 +378,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Soum-SoumTests/Pods-Soum-SoumTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FitTribe-FitTribeTests/Pods-FitTribe-FitTribeTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		ACC17E414FAEFB3D9ABC7190 /* [CP] Embed Pods Frameworks */ = {
@@ -395,15 +395,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D7B26B9AEF90012D997DC94F /* [CP] Check Pods Manifest.lock */ = {
@@ -421,7 +421,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Soum-SoumTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FitTribe-FitTribeTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -434,15 +434,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Soum/Pods-Soum-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FitTribe/Pods-FitTribe-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -452,7 +452,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* SoumTests.m in Sources */,
+				00E356F31AD99517003FC87E /* FitTribeTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,7 +470,7 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* Soum */;
+			target = 13B07F861A680F5B00A75B9A /* FitTribe */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -478,14 +478,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2CC03261B6CAC098BD846EA4 /* Pods-Soum-SoumTests.debug.xcconfig */;
+			baseConfigurationReference = 2CC03261B6CAC098BD846EA4 /* Pods-FitTribe-FitTribeTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = SoumTests/Info.plist;
+				INFOPLIST_FILE = "FitTribeTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -497,19 +497,19 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.soum.assesment;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.fittribe.task";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Soum.app/Soum";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FitTribe.app/FitTribe";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A1C9E4038C07D0A10BE25D24 /* Pods-Soum-SoumTests.release.xcconfig */;
+			baseConfigurationReference = A1C9E4038C07D0A10BE25D24 /* Pods-FitTribe-FitTribeTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = SoumTests/Info.plist;
+				INFOPLIST_FILE = "FitTribeTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -521,15 +521,15 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.soum.assesment;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.fittribe.task";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Soum.app/Soum";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FitTribe.app/FitTribe";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0A900AD7AE4EE78C4F20B297 /* Pods-Soum.debug.xcconfig */;
+			baseConfigurationReference = 0A900AD7AE4EE78C4F20B297 /* Pods-FitTribe.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -538,8 +538,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S4326JY72R;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = Soum/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Soum;
+				INFOPLIST_FILE = "FitTribe/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "FitTribe";
+				INFOPLIST_KEY_CFBundleDisplayName = FitTribe;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -550,8 +551,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.soum.assesment;
-				PRODUCT_NAME = Soum;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.fittribe.task";
+				PRODUCT_NAME = "FitTribe";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -561,7 +562,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E751476450AC2F009D9A3400 /* Pods-Soum.release.xcconfig */;
+			baseConfigurationReference = E751476450AC2F009D9A3400 /* Pods-FitTribe.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -569,8 +570,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = S4326JY72R;
-				INFOPLIST_FILE = Soum/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Soum;
+				INFOPLIST_FILE = "FitTribe/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "FitTribe";
+				INFOPLIST_KEY_CFBundleDisplayName = FitTribe;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -581,8 +583,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.soum.assesment;
-				PRODUCT_NAME = Soum;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.fittribe.task";
+				PRODUCT_NAME = "FitTribe";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -767,7 +769,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SoumTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "FitTribeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -776,7 +778,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Soum" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FitTribe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -785,7 +787,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Soum" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FitTribe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

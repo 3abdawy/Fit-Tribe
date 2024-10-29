@@ -1,4 +1,4 @@
-package com.soum.assesment
+package com.fittribe.task
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

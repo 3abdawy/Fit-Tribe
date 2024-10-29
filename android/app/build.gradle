@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.soum.assesment"
+    namespace "com.fittribe.task"
     defaultConfig {
-        applicationId "com.soum.assesment"
+        applicationId "com.fittribe.task"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
