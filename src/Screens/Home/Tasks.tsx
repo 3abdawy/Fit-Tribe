@@ -49,7 +49,7 @@ const Tasks = () => {
             value={searchQuery}
             onCancel={() => setSearchQuery('')}
             onChangeText={setSearchQuery}
-            style={{padding: 10, margin: 10, borderWidth: 1}}
+            iconName="search"
           />
           <TextInputField
             title="Add new task"
@@ -58,7 +58,6 @@ const Tasks = () => {
             iconName="todo"
             onCancel={() => setNewTaskTitle('')}
             onChangeText={setNewTaskTitle}
-            style={{padding: 10, margin: 10, borderWidth: 1}}
           />
         </View>
         {!!newTaskTitle && (

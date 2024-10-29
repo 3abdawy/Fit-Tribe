@@ -68,6 +68,7 @@ const Container = styled.View``;
 const Row = styled.View`
   flex-direction: row;
   align-items: center;
+  justify-content: space-between;
 `;
 
 const InputContainer = styled.View`
