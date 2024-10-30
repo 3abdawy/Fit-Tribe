@@ -15,7 +15,7 @@ interface TaskItemProps {
 const TaskItem: FC<TaskItemProps> = ({task, onToggleTask}) => (
   <Card>
     <Typography variant="title" fontWeight="semiBold">
-      Task
+      Task {task.id}
     </Typography>
     <Typography variant="body">{task.title}</Typography>
     <CustomButton

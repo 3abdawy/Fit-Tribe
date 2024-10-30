@@ -1,11 +1,11 @@
 import {create} from 'zustand';
-import {createJSONStorage, persist, PersistOptions} from 'zustand/middleware';
+import {createJSONStorage, persist} from 'zustand/middleware';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import NetInfo from '@react-native-community/netinfo';
 import {fetchTasks, updateTask, addTask} from '@services/api';
 
 // Define the Task interface
-interface Task {
+export interface Task {
   id: number;
   title: string;
   completed: boolean;
